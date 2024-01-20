@@ -15,4 +15,4 @@
 
 ### :bar_chart: Моя статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ivann1027&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivann1027&theme=react&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
