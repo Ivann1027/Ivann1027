@@ -2,7 +2,7 @@
 
 Я начинающий фронт-энд разработчик и только делаю первые проекты.
 
-### Технологии:
+### :hammer_and_wrench: Технологии:
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;
@@ -13,6 +13,6 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" title="npm" />&nbsp;
 </div>
 
-### :fire: Моя статистика :
+### :bar_chart: Моя статистика :
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ivann1027&theme=dark&background=000000)](https://git.io/streak-stats)
