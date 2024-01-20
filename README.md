@@ -16,3 +16,5 @@
 ### :bar_chart: Моя статистика :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivann1027&theme=react&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivann1027&layout=donut&theme=react&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
