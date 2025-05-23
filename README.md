@@ -1,6 +1,6 @@
-# Привет, меня зовут Иван
+# Hello, my name is Ivan
 
-Я начинающий фронт-энд разработчик и только делаю первые проекты. Осваиваю библиотеку React js. Владею такими фреймворками как Redux Toolkit, Router и RTK Query
+I'm a frontend and backend developer. React & Golang
 
 ___
 
@@ -24,11 +24,3 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivann1027&layout=donut&theme=react&locale=ru&card_width=320px)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
-
-### :phone: Связь со мной:
-
-<div>
-	<a href="https://t.me/IvanYurygin" title="Telegram">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram" />
-	</a>
-</div>
